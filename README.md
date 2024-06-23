@@ -14,3 +14,7 @@
 - Setup the React application with vite.
 - install tailwind css
 - Create a boiler plate design for password Generator
+- Adding states for checkboxes
+- creating a customHook for password generation
+- creating the strength of password calculator
+- adding error handling
